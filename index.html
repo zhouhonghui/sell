@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script>
+        var pixRatio = 1/window.devicePixelRatio;
+        var html = document.documentElement;
+        document.write('<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale='+ pixRatio +',minimum-scale='+ pixRatio +',maximum-scale='+ pixRatio +'">');
+        html.style.fontSize = html.clientWidth/25 + 'px';
+    </script>
+    <title>sell</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
