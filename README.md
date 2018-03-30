@@ -2,6 +2,12 @@
 
 > sell app
 
+<a href="http://www.inreead.com/dist/index.html">点此访问</a>
+
+手机访问
+
+<img src="" />
+
 ## Build Setup
 
 ``` bash
