@@ -6,7 +6,7 @@
 
 手机访问
 
-<img src="https://gss0.bdstatic.com/5bVWsj_p_tVS5dKfpU_Y_D3/res/img/moe/80329rm3.jpg" />
+<img src="http://www.inreead.com/style/images/ma.png" />
 
 ## Build Setup
 
